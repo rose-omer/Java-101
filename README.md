@@ -1,6 +1,3 @@
-# Java-101
-A'dan Z'ye Temel Java Bilgileri İle Yapılabilecek Bütün Örnekler Bulunmakta java-101 javaya giriş.
-Tekrar amaclı yapılan bu projeler acılıp bakıldığında coğu algoritmayı tekrar ettirmiş olucak.
+# Java Temel 101 Örnekleri
 
-
-BOL ŞANS
+Bu proje, Java programlama dilinde temel 101 bilgiler içeren basit bir kod koleksiyonunu içerir.
